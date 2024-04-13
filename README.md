@@ -1,6 +1,6 @@
 ### Hello there 👋
 ## This is Subhrosil Maiti<a href="https://dev.to/subhrosilmaiti">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Subhrosil Maiti's DEV Profile" height="30" width="30">
+ <!-- <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Subhrosil Maiti's DEV Profile" height="30" width="30"> -->
 </a>
 
 [![Gmail Badge](https://img.shields.io/badge/-subhrosil.maiti@ltts.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:subhrosil.maiti@ltts.com)](mailto:subhrosil.maiti@ltts.com) 
@@ -19,7 +19,7 @@
 
 <!--
 - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning CSS & Javascript.
+- <!--🌱 I’m currently learning CSS & Javascript. -->
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
