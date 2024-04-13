@@ -5,7 +5,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-subhrosil.maiti@ltts.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:subhrosil.maiti@ltts.com)](mailto:subhrosil.maiti@ltts.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/subhrosilmaiti-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/subhrosil-maiti/)](https://www.linkedin.com/in/subhrosil-maiti/)
-[![Github Badge](https://img.shields.io/badge/-99002658-grey?style=flat&logo=github&logoColor=white&link=https://github.com/99002658/)](https://www.github.com/99002658/) 
+<!--[![Github Badge](https://img.shields.io/badge/-99002658-grey?style=flat&logo=github&logoColor=white&link=https://github.com/99002658/)](https://www.github.com/99002658/) -->
 
 <!-- [![Subhrosil Maiti's DEV Badge](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/subhrosilmaiti) -->
 
