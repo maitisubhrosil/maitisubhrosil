@@ -1,7 +1,7 @@
 ### Hello there 👋
 ## This is Subhrosil Maiti
 
-[![Gmail Badge](https://img.shields.io/badge/-subhrosil.maiti@ltts.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:maitisubhrosil@gmail.com)](mailto:maitisubhrosil@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-maitisubhrosil@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:maitisubhrosil@gmail.com)](mailto:maitisubhrosil@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/subhrosilmaiti-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/subhrosil-maiti/)](https://www.linkedin.com/in/subhrosil-maiti/)
 <!--[![Github Badge](https://img.shields.io/badge/-99002658-grey?style=flat&logo=github&logoColor=white&link=https://github.com/99002658/)](https://www.github.com/99002658/) -->
 
